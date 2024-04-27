@@ -1,5 +1,5 @@
 ![logo](https://github.com/imuimuimran/imuimuimran/blob/main/github%20banner%2001_1.jpg)
-<h1 align="center">Hi 👋, I'm Mohd. Imran Hossain</h1>
+<h1 align="center">Hi 👋, I'm Mohd Imran Hossain</h1>
 <h3 align="center">A passionate Python | Django developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
