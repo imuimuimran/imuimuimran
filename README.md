@@ -19,7 +19,7 @@ Passionate about building modern, scalable and user-friendly web applications.
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="hossainmohdimran@gmail.com">
+<a href="mailto:hossainmohdimran@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 </p>
