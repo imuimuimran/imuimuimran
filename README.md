@@ -11,17 +11,19 @@ Passionate about building modern, scalable and user-friendly web applications.
 </p>
 
 <p align="center">
-<a href="https://imran-portfolio-ebon.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge" />
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
 </a>
 
-<a href="https://www.linkedin.com/in/mohd-imran-hossain/" target="_blank">
+<a href="https://www.linkedin.com/in/mohd-imran-hossain/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:hossainmohdimran@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
