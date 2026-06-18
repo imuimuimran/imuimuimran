@@ -105,170 +105,97 @@ To contribute as a Frontend or Full Stack Developer in impactful software projec
 
 ---
 
+<table>
+<tr>
+<td width="50%">
+
 ## 🎓 Scholar Stream
 
-### 📖 Overview
+Scholarship management platform where students can discover scholarships and submit applications online.
 
-Scholar Stream is a scholarship management platform where students can discover scholarship opportunities, submit applications, and track their application status through a user-friendly dashboard.
+### Tech Stack
 
-### 📸 Screenshots
+React • Firebase • Node.js • Express.js • MongoDB
 
-![Scholar Stream Home](./screenshots/scholar-stream.png)
+### Links
 
-### 🛠️ Technologies Used
+🔗 Live Demo:
+https://scholar-stream-e2d14.web.app/
 
-* React.js
-* Firebase Authentication
-* Node.js
-* Express.js
-* MongoDB
-* Tailwind CSS
-* TanStack Query
-* Axios
+📂 Repository:
+https://github.com/imuimuimran/scholar-stream-client
 
-### ✨ Main Features
+</td>
 
-* User Authentication
-* Scholarship Search & Filtering
-* Scholarship Application System
-* User Dashboard
-* Review & Feedback System
-* Admin Management Panel
+<td width="50%">
 
-### 📦 Main Dependencies
+<img src="./screenshots/scholar-stream.png"/>
 
-* react-router-dom
-* firebase
-* axios
-* @tanstack/react-query
-* react-hook-form
-* sweetalert2
-
-### 🚀 Run Locally
-
-```bash
-git clone https://github.com/imuimuimran/scholar-stream-client.git
-
-cd scholar-stream-client
-
-npm install
-
-npm run dev
-```
-
-### 🔗 Relevant Links
-
-* Live Site: https://scholar-stream-e2d14.web.app/
-* Repository: https://github.com/imuimuimran/scholar-stream-client
-
+</td>
+</tr>
+</table>
 ---
+
+<table>
+<tr>
+<td width="50%">
 
 ## 🎓 SkillHub Academy
 
-### 📖 Overview
+Modern LMS platform for students, instructors and administrators.
 
-SkillHub Academy is a modern online learning platform that enables students to enroll in courses, instructors to manage classes, and administrators to oversee the entire learning ecosystem.
+### Tech Stack
 
-### 📸 Screenshots
+Next.js • TypeScript • MongoDB • Tailwind CSS
 
-![SkillHub Academy Home](./screenshots/skillhub-academy.png)
+### Links
 
-### 🛠️ Technologies Used
+🔗 Live Demo:
+https://skillhub-academy-iota.vercel.app/
 
-* Next.js
-* TypeScript
-* MongoDB
-* Tailwind CSS
-* NextAuth
-* Axios
+📂 Repository:
+https://github.com/imuimuimran/skillhub-academy
 
-### ✨ Main Features
+</td>
 
-* Authentication System
-* Student Dashboard
-* Instructor Dashboard
-* Course Enrollment
-* Role-Based Access Control
-* Secure API Integration
+<td width="50%">
 
-### 📦 Main Dependencies
+<img src="./screenshots/skillhub-academy.png"/>
 
-* next
-* react
-* mongodb
-* axios
-* next-auth
-* zod
-* react-hook-form
-
-### 🚀 Run Locally
-
-```bash
-git clone https://github.com/imuimuimran/skillhub-academy.git
-
-cd skillhub-academy
-
-npm install
-
-npm run dev
-```
-
-### 🔗 Relevant Links
-
-* Live Site: https://skillhub-academy-iota.vercel.app/
-* Repository: https://github.com/imuimuimran/skillhub-academy
-
+</td>
+</tr>
+</table>
 ---
+
+<table>
+<tr>
+<td width="50%">
 
 ## 🍽️ Local Food Lovers Network
 
-### 📖 Overview
+Community platform for discovering and sharing local food experiences.
 
-A community platform where food enthusiasts can share food experiences, discover local cuisines, and interact with fellow food lovers.
+### Tech Stack
 
-### 📸 Screenshots
+React • Firebase • MongoDB • Express.js
 
-![Food Lovers Network](./screenshots/food-lovers.png)
+### Links
 
-### 🛠️ Technologies Used
+🔗 Live Demo:
+https://food-lovers-b-12-a-10.netlify.app/
 
-* React.js
-* Firebase
-* MongoDB
-* Express.js
-* Tailwind CSS
+📂 Repository:
+https://github.com/imuimuimran/local-food-lovers-network-client
 
-### ✨ Main Features
+</td>
 
-* Food Sharing Community
-* Authentication System
-* CRUD Operations
-* Responsive Design
-* User Interaction Features
+<td width="50%">
 
-### 📦 Main Dependencies
+<img src="./screenshots/food-lovers.png"/>
 
-* react-router-dom
-* firebase
-* axios
-* sweetalert2
-
-### 🚀 Run Locally
-
-```bash
-git clone https://github.com/imuimuimran/local-food-lovers-network-client.git
-
-cd local-food-lovers-network-client
-
-npm install
-
-npm run dev
-```
-
-### 🔗 Relevant Links
-
-* Live Site: https://food-lovers-b-12-a-10.netlify.app/
-* Repository: https://github.com/imuimuimran/local-food-lovers-network-client
+</td>
+</tr>
+</table>
 
 ---
 
