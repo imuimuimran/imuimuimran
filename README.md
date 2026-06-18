@@ -1,4 +1,4 @@
-![logo](https://github.com/imuimuimran/imuimuimran/blob/main/github%20banner%2001_1.jpg)
+![logo](https://github.com/imuimuimran/imuimuimran/blob/main/github%20banner%20image.png)
 <h1 align="center">Hi 👋, I'm Mohd Imran Hossain</h1>
 <h3 align="center">A passionate React JS | NEXT.JS developer</h3>
 
