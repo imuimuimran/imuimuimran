@@ -42,7 +42,7 @@ I enjoy transforming ideas into real-world digital solutions and continuously le
 
 ### 🎯 Career Objective
 
-To contribute as a Frontend or Full Stack Developer in impactful software projects while continuously growing my technical expertise and problem-solving abilities.
+To contribute as a Full Stack Developer in impactful software projects while continuously growing my technical expertise and problem-solving abilities.
 
 ---
 
