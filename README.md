@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Imran Hossain</h1>
 
 <h3 align="center">
-🚀 Full Stack JavaScript Developer | React.js & Next.js Specialist
+🚀 Full Stack JavaScript Developer | React.js & Next.js Developer
 </h3>
 
 <p align="center">
