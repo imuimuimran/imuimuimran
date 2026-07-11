@@ -204,7 +204,7 @@ https://github.com/imuimuimran/local-food-lovers-network-client
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=imuimuimran&show_icons=true&locale=en" />
+<img src="https://imran-portfolio-ebon.vercel.app/api?username=imuimuimran&show_icons=true&locale=en" />
 </p>
 
 <p align="center">
