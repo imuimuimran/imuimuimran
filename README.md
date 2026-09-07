@@ -61,11 +61,11 @@ I'm currently looking for opportunities where I can contribute as a **Junior Ful
 
 ### 🛠️ Core Technologies
 
-**Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS
-**Backend:** Node.js, Express.js, REST APIs
-**Database:** MongoDB, Mongoose
-**Authentication:** Clerk, Firebase, JWT
-**Tools & Platforms:** Git, GitHub, Postman, Vercel, Render
+* **Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS
+* **Backend:** Node.js, Express.js, REST APIs
+* **Database:** MongoDB, Mongoose
+* **Authentication:** Clerk, Firebase, JWT
+* **Tools & Platforms:** Git, GitHub, Postman, Vercel, Render
 
 ---
 
