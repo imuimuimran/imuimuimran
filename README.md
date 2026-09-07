@@ -36,24 +36,36 @@ Passionate about building modern, scalable and user-friendly web applications.
 
 ## 👨‍💻 About Me
 
-I'm a passionate Full Stack JavaScript Developer with experience in building responsive, modern, and scalable web applications using React.js, Next.js, Node.js, Express.js, and MongoDB.
+I'm a **Full Stack JavaScript Developer** focused on building modern, responsive, and scalable web applications using **React.js, Next.js, TypeScript, Node.js, Express.js, and MongoDB**.
 
-I enjoy transforming ideas into real-world digital solutions and continuously learning new technologies to improve my development skills.
+I enjoy turning ideas into practical software products and working across the full development lifecycle — from **UI development and API integration to authentication, database design, role-based access control, and deployment**.
 
-### 🎯 Career Objective
+I'm continuously improving my software engineering skills by building real-world projects, exploring better architecture patterns, and learning modern development practices.
 
-To contribute as a Full Stack Developer in impactful software projects while continuously growing my technical expertise and problem-solving abilities.
+### 🚀 Currently Working On
+
+* 🚀 Building production-oriented full-stack applications with **Next.js and TypeScript**
+* ⚡ Improving **React performance, reusable component architecture, and state management**
+* 🔐 Implementing **authentication, authorization, and role-based access control**
+* 🏗️ Exploring **scalable backend architecture and REST API design**
+* 🤖 Building and integrating **AI-powered features into web applications**
+* ☁️ Learning and applying modern **deployment and production practices**
+* 📚 Continuously improving **problem-solving and software engineering fundamentals**
+* 🤝 Open to collaborating on interesting **web development and full-stack projects**
+
+### 🎯 What I'm Looking For
+
+I'm currently looking for opportunities where I can contribute as a **Junior Full Stack Developer, MERN Stack Developer, or Next.js Developer**, work with experienced engineers, and continue growing through real-world software development.
 
 ---
 
-## 🔥 Currently Working On
+### 🛠️ Core Technologies
 
-* 🚀 Building full-stack applications with Next.js 16
-* ⚡ Improving React performance optimization skills
-* 🔐 Learning advanced authentication and security practices
-* 🏗️ Exploring scalable software architecture patterns
-* 🌱 Expanding my portfolio with production-ready projects
-* 🤝 Open to collaboration on exciting web development projects
+**Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS
+**Backend:** Node.js, Express.js, REST APIs
+**Database:** MongoDB, Mongoose
+**Authentication:** Clerk, Firebase, JWT
+**Tools & Platforms:** Git, GitHub, Postman, Vercel, Render
 
 ---
 
