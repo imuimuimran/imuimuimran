@@ -1,9 +1,9 @@
-![logo](https://github.com/imuimuimran/imuimuimran/blob/main/github%20banner%20image.png)
+![logo](https://github.com/imuimuimran/imuimuimran/blob/main/GitHub%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Mohd Imran Hossain</h1>
 
 <h3 align="center">
-🚀 Full Stack JavaScript Developer | React.js & Next.js Developer
+🚀 Full-Stack Developer specializing in React, Next.js, TypeScript and Node.js
 </h3>
 
 <p align="center">
